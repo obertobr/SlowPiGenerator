@@ -1,0 +1,20 @@
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\bin\Debug\teste3.exe.config
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\bin\Debug\teste3.exe
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\bin\Debug\teste3.pdb
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\bin\Debug\teste3.xml
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\obj\Debug\teste3.Resources.resources
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\obj\Debug\teste3.vbproj.GenerateResource.Cache
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\obj\Debug\teste3.exe
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\obj\Debug\teste3.xml
+c:\users\rafaeleduardoazzi\documents\visual studio 2012\Projects\teste3\teste3\obj\Debug\teste3.pdb
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\bin\Debug\teste3.exe.config
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\bin\Debug\teste3.exe
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\bin\Debug\teste3.pdb
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\bin\Debug\teste3.xml
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.vbprojAssemblyReference.cache
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.Resources.resources
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.vbproj.GenerateResource.cache
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.vbproj.CoreCompileInputs.cache
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.exe
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.xml
+C:\Users\obertobr\Documents\VISUAL STUDIOS\teste3\teste3\obj\Debug\teste3.pdb
